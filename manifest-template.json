@@ -1,10 +1,10 @@
 {
-    "name": "",
-    "version": "",
-    "author": "",
+    "name": "The Cool Bip Mod",
+    "version": "1.0.0",
+    "author": "Xero",
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "minecraft": {
-        "version": "1.12.2"
+        "version": "1.20.1"
     }
 }
